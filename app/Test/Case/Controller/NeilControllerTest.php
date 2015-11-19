@@ -13,7 +13,7 @@ class NeilControllerTest extends ControllerTestCase {
  * @return void
  */
 	public function testIndex() {
-		$this->testAction('/index');
+		$this->testAction('/');
 	}
 
 }
