@@ -6,16 +6,6 @@ App::uses('NeilController', 'Controller');
  */
 class NeilControllerTest extends ControllerTestCase {
 
-/**
- * Fixtures
- *
- * @var array
- */
-	public $fixtures = array(
-		'app.message',
-		'app.user',
-		'app.message_content'
-	);
 
 /**
  * testIndex method
