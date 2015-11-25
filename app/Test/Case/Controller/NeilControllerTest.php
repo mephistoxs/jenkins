@@ -14,7 +14,7 @@ class NeilControllerTest extends ControllerTestCase {
  */
 	public function testIndex() {
 		$this->testAction('/');
-		echo "gana error";;;
+		echo "gana error 805399165c9f20a34f387fb945dca947ed55ac36";;;;;
 	}
 
 }
